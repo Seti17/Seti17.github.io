@@ -1,8 +1,8 @@
 # Lab4
 
 
-This a simple IoT Geoweb app for ENGO651 - Lab 4.
-This is a simple web application that turns any smartphone into an IoT sensor by using the javascript geolocation API. It's also a basic online mapping application for visualising the sensor's location on a smartphone.
+This is a simple IoT Geoweb app for ENGO651 - Lab 4.
+This is a web application that turns any smartphone into an IoT sensor by using the javascript geolocation API. It's also a basic online mapping application for visualising the sensor's location on a smartphone.
 
 
 The Lab4 repository includes 1 file:
