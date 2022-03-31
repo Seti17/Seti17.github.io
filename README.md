@@ -13,7 +13,8 @@ The Lab4 repository includes 1 file:
 
 Index.html: Using javascript for loading the mapbox and LeafLet map and icons. MQTT, It is a publish/subscribe protocol that allows machines to communicate with one another and in this project used for to get the most recent position of device and show it on a map.
 
-# Webpage : https://seti17.github.io/
+# Webpage
+https://seti17.github.io/
 
 # Set up
 
