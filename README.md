@@ -25,5 +25,6 @@ https://seti17.github.io/
 2. Website
 - Host: test.mosquitto.org
 - Port: 8081
-- Subscribe to the topic {course_name}/{your_name}/my_temperature
+- Subscribe to the topic: {course_name}/{your_name}/my_temperature
 - Map: Course Name: {course_name} + Name: {your_name} + my_temperature
+- Share my status
