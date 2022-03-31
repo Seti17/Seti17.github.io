@@ -7,7 +7,7 @@ This is a web application that turns any smartphone into an IoT sensor by using 
 
 The Lab4 repository includes 1 file:
 
-- 1 HTML file (index.html)
+- 1 HTML file (index.htm)
 
 ### HTML :
 
